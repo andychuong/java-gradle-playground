@@ -20,5 +20,7 @@ public class App {
         System.out.println(marker);
         Marker marker2 = new Marker(true, 2);
         System.out.println(marker2);
+        System.out.println(marker2.getInkLevel());
+        System.out.println(marker2 instanceof Marker);
     }
 }

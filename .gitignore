@@ -8,3 +8,5 @@ build
 # Other
 out
 .idea
+.idea/workspace.xml
+.vscode
