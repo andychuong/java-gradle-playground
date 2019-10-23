@@ -31,4 +31,19 @@ public class Marker {
                 '}';
     }
 
+    public boolean isCapped() {
+        return isCapped;
+    }
+
+    public void setCapped(boolean capped) {
+        isCapped = capped;
+    }
+
+    public double getInkLevel() {
+        return inkLevel;
+    }
+
+    public void setInkLevel(double inkLevel) {
+        this.inkLevel = inkLevel;
+    }
 }
