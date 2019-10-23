@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25861fc7-609d-4b4e-9127-b66e434279b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaplayground/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaplayground/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/javaplayground/Marker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaplayground/Marker.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
