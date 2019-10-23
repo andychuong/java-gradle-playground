@@ -10,9 +10,15 @@ public class App {
 
     public static void main(String[] args) {
 //        System.out.println(new App().getGreeting());
-        Table roundTable = new Table();
-        roundTable.setShape("round");
-
-        System.out.println(roundTable);
+//        Table roundTable = new Table();
+//        roundTable.setShape("round");
+//
+//        System.out.println(roundTable);
+        Marker marker = new Marker(true, 2);
+        marker.unCap();
+        marker.write("Hello");
+        System.out.println(marker);
+        Marker marker2 = new Marker(true, 2);
+        System.out.println(marker2);
     }
 }
